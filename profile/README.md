@@ -35,8 +35,6 @@ Most of our repositories are private, because they hold product code and device 
 - **bridGe:** the add-on and the payment backend behind it.
 - **Websites and infrastructure:** our public sites and the server they run on.
 
-Our stack includes Python and FastAPI, Next.js and TypeScript, PostgreSQL with TimescaleDB for sensor data, and Docker on our own servers.
-
 ## Recognition
 
 - Efficiency for Access Design Challenge: Prototyping award (2023 to 2024), Silver award (2024), Large Grant and Accelerator Programme with UKRI's Energy Catalyst (2025)
